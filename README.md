@@ -2,7 +2,8 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This is a base to show how to get data from a people search async while loading normal SharePointLocalResults.
+In this case the emailaddress is given as a parameter into the extention which will then use it to do a async call to the userprofile and return the Jobtitle
 
 [picture of the solution in action, if possible]
 
@@ -14,6 +15,7 @@ Short summary on functionality and used technologies.
 
 - [SharePoint Framework](https://aka.ms/spfx)
 - [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- Microsoft Modern Search PnP
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
@@ -31,8 +33,7 @@ Short summary on functionality and used technologies.
 
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
-| 1.1     | March 10, 2021   | Update comment  |
-| 1.0     | January 29, 2021 | Initial release |
+| 1.0     | July 06, 2024 | Initial release |
 
 ## Disclaimer
 
