@@ -1,0 +1,9 @@
+{
+  "id": "b318b2df-36d2-4378-80fc-4522d6025d38",
+  "alias": "PeopleSearchLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
