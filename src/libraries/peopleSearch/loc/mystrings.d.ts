@@ -12,7 +12,6 @@ declare interface IPeopleSearchLibraryStrings {
       SuffixPlaceholder:string;
     }
 }
-
 declare module 'PeopleSearchLibraryStrings' {
   const strings: IPeopleSearchLibraryStrings;
   export = strings;

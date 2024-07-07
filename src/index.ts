@@ -1,1 +1,1 @@
-export { PeopleSearchLibrary } from './libraries/peopleSearch/PeopleSearchLibrary';
+export { PeopleSearchLibrary } from './libraries/PeopleSearch/PeopleSearchLibrary';

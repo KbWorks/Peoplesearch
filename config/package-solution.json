@@ -1,9 +1,9 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "peoplesearch-client-side-solution",
+    "name": "searchext-client-side-solution",
     "id": "857305b2-7708-478c-9e4b-ad862fcca297",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
@@ -16,10 +16,10 @@
     },
     "metadata": {
       "shortDescription": {
-        "default": "peoplesearch description"
+        "default": "searchext description"
       },
       "longDescription": {
-        "default": "peoplesearch description"
+        "default": "searchext description"
       },
       "screenshotPaths": [],
       "videoUrl": "",
@@ -27,6 +27,6 @@
     }
   },
   "paths": {
-    "zippedPackage": "solution/peoplesearch.sppkg"
+    "zippedPackage": "solution/searchext.sppkg"
   }
 }

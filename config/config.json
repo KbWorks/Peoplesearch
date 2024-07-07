@@ -6,13 +6,13 @@
       "components": [
         {
           "entrypoint": "./lib/index.js",
-          "manifest": "./src/libraries/peopleSearch/PeopleSearchLibrary.manifest.json"
+          "manifest": "./src/libraries/PeopleSearch/PeopleSearchLibrary.manifest.json"
         }
       ]
     }
   },
   "externals": {},
   "localizedResources": {
-    "PeopleSearchLibraryStrings": "lib/libraries/peopleSearch/loc/{locale}.js"
+    "PeopleSearchLibraryStrings": "lib/libraries/PeopleSearch/loc/{locale}.js"
   }
 }

@@ -9,7 +9,7 @@ import { SPHttpClient, SPHttpClientResponse } from '@microsoft/sp-http';
 import { PageContext } from '@microsoft/sp-page-context';
 import * as Handlebars from "handlebars";
 import { MyGetFunctionComponentWebComponent } from '../Getfunction/Components/GetFunctionComponent';
-
+//import { getSP } from '../Services/PnPjsconfig';
 export class PeopleSearchLibrary implements IExtensibilityLibrary {
 
   public static readonly serviceKey: ServiceKey<PeopleSearchLibrary> =
